@@ -1,2 +1,2 @@
-# scirpts
+# scripts
 自用
