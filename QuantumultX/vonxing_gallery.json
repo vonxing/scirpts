@@ -2,8 +2,9 @@
     "name":"lxk0301 task gallery",
     "description":"https://github.com/lxk0301/jd_scripts",
     "task":[
-      "5 0-16/8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/znz1992/Gallery/master/jdww.png",
-      "20,30 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_blueCoin.js, tag=京小超领蓝币, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png",
+      "0,2 0-16/8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/znz1992/Gallery/master/jdww.png",
+      "0,3,30 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_blueCoin.js, tag=京小超领蓝币, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png",
+      "0,1 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car_exchange.js, tag=京东汽车领奖, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png",
       "1 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js, tag=京东盲盒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
       "5 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_checkin.js, tag=什么值得买每日签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/smzdm.png",
       "5 */3 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
