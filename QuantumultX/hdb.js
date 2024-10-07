@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-10-04
 // @description  try to take over the world!
-// @author       You
+// @author       vonxing
 // @match        http://www.hdb666.com/*
 // @require      https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hdb666.com
